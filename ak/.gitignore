@@ -1,0 +1,7 @@
+# Ignore files related to API keys, passwords, database, customer related information, etc from being published to Github
+__pycache__/
+instance/
+extract_ctrlX_sw_license_from_email/CTRLX SOFTWARE LICENSE/
+extract_ctrlX_sw_license_from_email/*.xlsx
+*.env
+*.xlsx
